@@ -47,7 +47,7 @@ def main(detector):
                             else:
                                 print("invlaid enter again...")
                         print("updating the total set and retaraining the detector ....")
-                        detector=reviewfeeder(detector,movie_c,movie_s,movie_r,sn)
+                        detector=reviewfeeder(movie_c,movie_s,movie_r,sn)
                     else:
                         exit()
                 elif choice2==0:
