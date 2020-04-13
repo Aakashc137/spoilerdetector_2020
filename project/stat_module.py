@@ -73,7 +73,7 @@ def plotgraph():
     for rect in bar1 + bar2 + bar3:
         height = rect.get_height()
         plt.text(rect.get_x() + rect.get_width()/2.0, height, '%d' % int(height), ha='center',va='bottom')
-    
+    plt.title("data based on the set used for testing")
     plt.legend()
     plt.tight_layout()
     plt.show()
@@ -105,7 +105,7 @@ def plotgraph():
     for rect in bar1 + bar2 + bar3:
         height = rect.get_height()
         plt.text(rect.get_x() + rect.get_width()/2.0, height, '%d' % int(height), ha='center',va='bottom')
-    
+    plt.title("data based on the set used for training")
     plt.legend()
     plt.tight_layout()
     plt.show()
