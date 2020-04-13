@@ -18,16 +18,16 @@ def statistical_analysis():
         t2=detector.classify(x)
         if y=="S":
             totalPositives+=1
+            if t2=="S":
+                truePositives+=1
+            else:
+                falsePositives+=1
         if y=="N":
             totalNegatives+=1
-        if t2=="S" and y=="S":
-            truePositives+=1
-        if t2=="S" and y=="N":
-            falsePositives+=1
-        if t2=="N" and y=="N":
-            trueNegatives+=1
-        if t2=="N" and y=="S":
-            falseNegatives+=1
+            if t2=="N":
+                trueNegatives+=1
+            else:
+                falseNegatives+=1
     return totalPositives,truePositives,falsePositives,totalNegatives,trueNegatives,falseNegatives
     
 
