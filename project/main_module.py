@@ -41,7 +41,7 @@ def main(detector):
                         movie_t,movie_c,movie_s = info
                         movie_r = input("ENTER THE REVIEW OF THE MOVIE:")
                         while True:
-                            sn=input("""ENTER S IF THE REVIEW IS A SPOILER\n ENTER S IF THE REVIEW IS NOT A SPOILER""").upper()
+                            sn=input("""ENTER S IF THE REVIEW IS A SPOILER\nENTER N IF THE REVIEW IS NOT A SPOILER""").upper()
                             if sn in ["N","S"]:
                                 break
                             else:
