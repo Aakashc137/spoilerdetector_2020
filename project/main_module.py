@@ -51,11 +51,11 @@ def main(detector):
                     else:
                         exit()
                 elif choice2==0:
-                    plotgraph()
+                    break
                 else:
                     print("enter a valid option...")
         elif choice1==2:
-           print("work in progress")  
+           plotgraph()  
         elif choice1==0:
             break
         else:
