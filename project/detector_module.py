@@ -149,7 +149,7 @@ def reviewpredictor(detector,characters,movie_s,movie_r):
 
 def reviewfeeder(movie_c,movie_s,movie_r,sn):
     feature_dict=setbuiler(movie_c,movie_s,movie_r)
-    updatetotal_set(feature_dict,sn)
+    updatetotal_set((feature_dict,sn))
     machine=trainmachine()
     updatemachine(machine)
     return machine
