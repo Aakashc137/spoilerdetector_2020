@@ -77,6 +77,12 @@ def plotgraph():
     plt.legend()
     plt.tight_layout()
     plt.show()
+    accuracy = (truePositives+trueNegatives)/(totalPositives+totalNegatives)
+    precision = truePositives/(falsePositives+truePositives)
+    recall = truePositives/(falseNegatives+truePositives)
+    print("Accuracy =",accuracy)
+    print("Precision =",precision)
+    print("Recall =",recall)
     
     plt.rcParams['axes.facecolor'] = '#ffb308'
     totalPositives,truePositives,falsePositives,totalNegatives,trueNegatives,falseNegatives=statistical_analysis_total_set()
@@ -103,3 +109,9 @@ def plotgraph():
     plt.legend()
     plt.tight_layout()
     plt.show()
+    accuracy = (truePositives+trueNegatives)/(totalPositives+totalNegatives)
+    precision = truePositives/(falsePositives+truePositives)
+    recall = truePositives/(falseNegatives+truePositives)
+    print("Accuracy =",accuracy)
+    print("Precision =",precision)
+    print("Recall =",recall)
