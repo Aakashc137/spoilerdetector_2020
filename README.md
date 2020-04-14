@@ -10,7 +10,7 @@
 ![Image of folder that should be made](https://github.com/vishva-patel2607/spoilerdetector_2020_psc/blob/master/photos/Screenshot%2048.png)
 4. Make sure you have the following contents once you are inside the **project** folder of spoilerdetector_2020_psc.
 ![Image inside project folder of spoilerdetector_psc](https://github.com/vishva-patel2607/spoilerdetector_2020_psc/blob/master/photos/Screenshot%2050.png)
-5. Open command prompt and go inside the project folder as shown below.You should be able to determine the address corresponding to your computer by the blue text in the image above.
+5. Open **cmd** and go inside the **project** directory as shown below.You should be able to determine the address corresponding to your computer by the blue text in the image above.
 After you are inside the correct directory enter the following command and press enter to run the program **main_module.py**
 ![Image inside command prompt](https://github.com/vishva-patel2607/spoilerdetector_2020_psc/blob/master/photos/Screenshot%2051.png)
 ## how to use the detector interface
