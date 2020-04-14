@@ -16,7 +16,7 @@ import os
 
 porter = PorterStemmer()
 
-stopwords = nltk.corpus.stopwords.words('english')
+stopwords = n.corpus.stopwords.words('english')
 VB_list=["VB","VBD","VBG","VBN","VBP","VBZ"]    
 cwd=os.path.dirname(os.path.abspath(__file__))
 
