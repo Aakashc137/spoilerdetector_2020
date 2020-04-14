@@ -13,6 +13,7 @@
 5. Open **cmd** and go inside the **project** directory as shown below.You should be able to determine the address corresponding to your computer by the blue text in the image above.
 After you are inside the correct directory enter the following command and press enter to run the program **main_module.py**
 ![Image inside command prompt](https://github.com/vishva-patel2607/spoilerdetector_2020_psc/blob/master/photos/Screenshot%2051.png)
+6. Once the program is running it will start downloading the nltk data for the first time so make sure your device is **connected to internet** and wait till the nltk data is **fully downloaded**
 ## how to use the detector interface
 **ONCE THE DETECTOR INTERFACE IS RUNNING YOU WILL HAVE 2 OPTIONS**
 ![Image of main menu](https://github.com/vishva-patel2607/spoilerdetector_2020_psc/blob/master/photos/Screen%20Shot%202020-04-14%20at%203.45.44%20PM.png)
