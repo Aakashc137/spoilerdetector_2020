@@ -3,7 +3,7 @@
 ## downloading and running the project
 ****
 1. Download the zip file as shown in image
-![Image of the github interface](https://github.com/vishva-patel2607/spoilerdetector_2020_psc/blob/master/photos/Screenshot%2046.png)
+![Image of the github interface](https://github.com/vishva-patel2607/spoilerdetector_2020_psc/blob/master/photos/Screenshot_46.png)
 2. After Downloading extract the zip as shown below.
 ![Image of zipfile extraction](https://github.com/vishva-patel2607/spoilerdetector_2020_psc/blob/master/photos/Screenshot%2047.png)
 3. You should now have a folder as shown below.
