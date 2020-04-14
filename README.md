@@ -36,3 +36,12 @@
     
     ![Image of statistics](https://github.com/vishva-patel2607/spoilerdetector_2020_psc/blob/master/photos/Screen%20Shot%202020-04-14%20at%203.45.24%20PM.png)
 
+
+## MODULES ON GIT HUB
+
+1. PHOTOS - USED FOR PHOTOS IN README.MD
+2. PROJECT - WHERE THE DETECTOR PROJECT AND ITS FILES ARE STORED
+3. OTHER
+   1. Scrape_Function-checkpoint - USED FOR WEB SCRAPING 
+   2. librarymanagment - USED FOR CREATING LIBRARY OF ALL THE DATA SCRAPED
+   3. machine_trainer - USED FOR CREATING TRAINING AND TEST SETS
