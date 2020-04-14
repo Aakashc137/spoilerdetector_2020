@@ -4,7 +4,10 @@
 
 @author: vishvapatel 18bce260 aakashshah 18bce214 yashchelani 18bce263
 """
+
+
 import nltk as n
+n.download("all")
 from nltk.stem.porter import PorterStemmer
 from nltk.corpus import wordnet
 import pickle
