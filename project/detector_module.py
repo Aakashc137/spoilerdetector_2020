@@ -7,7 +7,10 @@
 
 
 import nltk as n
-n.download("all")
+n.download("stemmers")
+n.download("tokenizers")
+n.download("taggers")
+
 from nltk.stem.porter import PorterStemmer
 from nltk.corpus import wordnet
 import pickle
