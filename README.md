@@ -1,4 +1,6 @@
 # spoilerdetector_2020_psc
+## link to the video demo of the project
+https://drive.google.com/file/d/1oq6_t4op4TMeEaGukydtPUlNtHUuoopk/view?usp=sharing
 
 ## downloading and running the project
 ****
