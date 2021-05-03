@@ -5,9 +5,9 @@ https://drive.google.com/file/d/1oq6_t4op4TMeEaGukydtPUlNtHUuoopk/view?usp=shari
 ## downloading and running the project
 ****
 1. Download the zip file as shown in image
-![Image of the github interface](https://github.com/vishva-patel2607/spoilerdetector_2020_psc/blob/master/photos/Screenshot_46.png)
+![Image of the github interface](https://github.com/Aakashc137/spoilerdetector_2020/blob/master/photos/Screenshot_46.png)
 2. After Downloading extract the zip as shown below.
-![Image of zipfile extraction](https://github.com/vishva-patel2607/spoilerdetector_2020_psc/blob/master/photos/Screenshot%2047.png)
+![Image of zipfile extraction](https://github.com/Aakashc137/spoilerdetector_2020/blob/master/photos/Screenshot_47.png)
 3. You should now have a folder as shown below.
 ![Image of folder that should be made](https://github.com/Aakashc137/spoilerdetector_2020_psc/blob/master/photos/Screenshot%2048.png)
 4. Make sure you have the following contents once you are inside the **project** folder of spoilerdetector_2020_psc.
